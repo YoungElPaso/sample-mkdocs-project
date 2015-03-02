@@ -1,6 +1,7 @@
-site_name: Test Project for SDLC documentation
+site_name: SDLC Documentation
 theme: 'readthedocs'
-markdown_extensions: ['markdown.extensions.include']
+markdown_extensions: ['markdown.extensions.include', 'extra']
 pages:
   - ['index.md', 'Home']
-  - ['includes/foobar.md', 'Fasdoobar']
+  - ['bns/index.md', 'BNS Library', 'Index']
+  - ['bns/sample-bns.md', 'BNS Library', 'A Sample BNS Document']
