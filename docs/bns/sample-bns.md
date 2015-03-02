@@ -1,4 +1,5 @@
-# A Sample BNS: Drupal 7 Profiles tool, glossary block administration
+## A Sample BNS: Drupal 7 Profiles tool, glossary block administration
+This document is derived from this template: [BNS Part A](../templates/bns-a.md)
 
 # P100 Business Need
 
