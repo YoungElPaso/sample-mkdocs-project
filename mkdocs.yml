@@ -3,5 +3,8 @@ theme: 'readthedocs'
 markdown_extensions: ['markdown.extensions.include', 'extra']
 pages:
   - ['index.md', 'Home']
-  - ['bns/index.md', 'BNS Library', 'Index']
+  - ['methodology.md', 'Methodology']
+  - ['bns/index.md', 'BNS Library', 'BNS Index']
   - ['bns/sample-bns.md', 'BNS Library', 'A Sample BNS Document']
+  - ['templates/index.md', 'Template Repository', 'Overview']
+  - ['templates/bns-a.md', 'Template Repository','BNS Part A']

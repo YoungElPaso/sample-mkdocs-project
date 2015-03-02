@@ -33,11 +33,16 @@ Currently, the glossary block cannot be turned on or off. Site managers require 
 
 Complexity Criteria: | True/False
 :--------------------|:-----------
-Is Development required on more than 1 system, OR 
-Is this a new technology or Service for McGill, OR
-Does it require more than 20 person days of IT effort, OR
-Does the need require new integration work, OR
-Does the need require non-existing data, OR
-Does the need impact major security concerns?
-If all are “NO” then Technical Complexity is FALSE (F)
+Is Development required on more than 1 system, OR  | No
+Is this a new technology or Service for McGill, OR | No
+Does it require more than 20 person days of IT effort, OR | No
+Does the need require new integration work, OR | No
+Does the need require non-existing data, OR | No
+Does the need impact major security concerns? | No
+If all are “NO” then Technical Complexity is FALSE (F) | FALSE
+
+---
+
+__If Technical Complexity (above) is FALSE, then this document is complete.
+If not, then a part 'B' and 'C' are required. @TODO: links__
  
