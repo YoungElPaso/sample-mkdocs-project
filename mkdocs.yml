@@ -1,0 +1,6 @@
+site_name: Test Project for SDLC documentation
+theme: 'readthedocs'
+markdown_extensions: ['markdown.extensions.include']
+pages:
+  - ['index.md', 'Home']
+  - ['includes/foobar.md', 'Fasdoobar']
