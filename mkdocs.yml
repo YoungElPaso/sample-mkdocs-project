@@ -4,6 +4,7 @@ markdown_extensions: ['markdown.extensions.include', 'extra']
 pages:
   - ['index.md', 'Home']
   - ['methodology.md', 'Methodology']
+  - ['paths/enhancement/index.md', 'Paths']
   - ['bns/index.md', 'BNS Library', 'BNS Index']
   - ['bns/sample-bns.md', 'BNS Library', 'A Sample BNS Document']
   - ['templates/index.md', 'Template Repository', 'Overview']
